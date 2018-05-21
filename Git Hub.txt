@@ -6,3 +6,9 @@ git push origin master -- suve los archivos a la web
 ---------actualizar datos--------------------------------
 git commit -m "nuevo commit"
 git push origin master  -- actualizar datos
+
+
+
+
+
+ espero funcione XP
