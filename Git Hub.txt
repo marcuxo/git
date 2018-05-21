@@ -4,6 +4,7 @@ git remote add origin https://github.com/marcuxo/desarrolloWeb.git--direccion de
 git commit -m "mensaje" 
 git push origin master -- suve los archivos a la web
 ---------actualizar datos--------------------------------
+git add -A
 git commit -m "nuevo commit"
 git push origin master  -- actualizar datos
 
