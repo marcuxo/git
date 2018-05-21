@@ -1,0 +1,8 @@
+git init en carpeta a usar (carpeta local)
+git add -A -- para agregar todos los archivo
+git remote add origin https://github.com/marcuxo/desarrolloWeb.git--direccion del repocitorio en la web
+git commit -m "mensaje" 
+git push origin master -- suve los archivos a la web
+---------actualizar datos--------------------------------
+git commit -m "nuevo commit"
+git push origin master  -- actualizar datos
