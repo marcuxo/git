@@ -8,7 +8,8 @@ git add -A
 git commit -m "nuevo commit"
 git push origin master  -- actualizar datos
 
- espero funcione XP
+ --/\/\ curso git /\/\--
+/\/\ https://www.youtube.com/watch?v=6-XEXsyxFIY /\/\
 --Configuracion de git
 git config --global user.name "NombreDeUsuario"
 git config --global user.email "correo@mail.com"
