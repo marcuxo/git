@@ -8,8 +8,20 @@ git add -A
 git commit -m "nuevo commit"
 git push origin master  -- actualizar datos
 
-
-
-
-
  espero funcione XP
+--Configuracion de git
+git config --global user.name "NombreDeUsuario"
+git config --global user.email "correo@mail.com"
+--ver configuracion
+git config --global -l
+	//devuelve los valores recien agregados de lo contrario algo salio mal
+
+--repocitorio
+git init //inicia el repocitorio
+git status // ver estado de archivos
+git add . // da permiso
+git commit -m "comentario" //comentario de cambios
+--git diff  //muestra y compara los cambios hechos en el repocitorio
+--git checkout . // vuelve a la vercion anterior de hacer los cambios
+--git log // muestra el historial de cambios
+--git commit --amed -m "comit nuevo" // da la opcion de cambiar el commit en caso de error
